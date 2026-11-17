@@ -1,0 +1,6 @@
+{
+  "name": "三角洲行動｜Delta Tactical",
+  "description": "三角洲戰術槍戰平台與即時 3D 第一人稱實戰演練系統，支援武器改裝工坊、作戰地圖部署與戰術撤離對抗。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
